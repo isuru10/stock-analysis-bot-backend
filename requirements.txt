@@ -1,0 +1,7 @@
+tweepy==3.9.0
+python-dotenv==0.14.0
+ta==0.10.1
+matplotlib==3.5.2
+numpy==1.22.3
+pandas==1.4.2
+yfinance==0.1.70
